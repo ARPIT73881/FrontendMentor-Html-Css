@@ -1,0 +1,1 @@
+https://arpit73881.github.io/FrontendMentor-Html-Css/01-QR-Code-Card-Design/Index.html
